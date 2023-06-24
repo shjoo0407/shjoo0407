@@ -14,5 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=CED8F6&height=200&section=header&text=Sehyun's%20GitHub%20&fontSize=40)
+## Hi there 👋     
+This is Sehyun's github. I'm interested in <strong>Data Analysis, Machine Learning & Deep Learning<strong>
+<br>
+For more information, <br>
+click here -> **["Sehyun's A to Z"](https://lively-tungsten-b4f.notion.site/5fbed8d55e3f482180470159df9ebd6a?pvs=4)**
+<br>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello!&desc=Sehyun's%20Github&fontSize=90)
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shjoo0407&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=shjoo0407&theme=tokyonight&show_icons=true" width="42%" />
+</a>
