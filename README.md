@@ -10,6 +10,8 @@
 이곳을 클릭해주세요! -> **["Sehyun's A to Z"](https://lively-tungsten-b4f.notion.site/5fbed8d55e3f482180470159df9ebd6a?pvs=4)**
 <br>
 <br>
+---
+<br>
 ### Skill
 <code><img alt = "3.1 Python" height="20" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png"> Python</code>
 <code><img alt = "3.1 Python" height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_170820.png"> Pytorch</code>
@@ -22,7 +24,7 @@
 <code><img alt = "3.1 Python" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png"> JS</code>
 <code><img alt = "3.1 Python" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png"> Node.js</code>
 
-
+---
 
 ### 수상이력
 |상훈명|대회명|수여 기관|일시|
@@ -31,7 +33,7 @@
 |장려상|2022 데이터 청년 캠퍼스|한국데이터산업진흥원|22년 9월|
 |대상|빅리더 AI 아카데미|경남대학교|22년 8월|
 
-
+---
 
 ### 자격증 보유 현황
 |자격명|취득일자|발급 기관|자격번호|
@@ -39,7 +41,7 @@
 |정보처리기사|2023.06|한국산업인력공|23201170344X|
 |SQL 개발자|2023.04|한국데이터산업진흥원|SQLD-048006996|
 
-
+---
 
 ### 프로젝트
 |기간|프로젝트명|프로젝트 설명|기술|
@@ -52,6 +54,7 @@
 |22.06~22.07|국립공원공단 협업 프로젝트|인공위성 데이터를 활용한 기후변화 분석 및 예측|`Python`,`data:time series`,`QGIS`,`Prophet`,`LSTM`,`ARIMA`|
 
 
+---
 
 ### Statistics
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shjoo0407&theme=tokyonight)](https://git.io/streak-stats)
