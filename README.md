@@ -11,7 +11,6 @@
 <br>
 <br>
 ---
-<br>
 ### Skill
 <code><img alt = "3.1 Python" height="20" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png"> Python</code>
 <code><img alt = "3.1 Python" height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_170820.png"> Pytorch</code>
