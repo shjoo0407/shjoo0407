@@ -22,7 +22,7 @@
 <code><img alt = "3.1 Python" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png"> CSS</code>
 <code><img alt = "3.1 Python" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png"> JS</code>
 <code><img alt = "3.1 Python" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png"> Node.js</code>
-
+<code><img alt = "3.1 Python" height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/qgis_logo_icon_170816.png">QGIS</code>
 ---
 
 ### 수상이력
