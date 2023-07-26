@@ -7,7 +7,7 @@
 <br>
 저에 대한 더 많은 정보를 보고 싶으시다면, 
 <br>
-이곳을 클릭해주세요! -> **["Sehyun's A to Z"](https://lively-tungsten-b4f.notion.site/54b8ad36f8964496a6abdc06707a8b22?pvs=4)**
+이곳을 클릭해주세요! -> **["Sehyun's A to Z"]()**
 <br>
 <br>
 ---
